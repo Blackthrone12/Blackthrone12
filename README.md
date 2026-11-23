@@ -83,6 +83,18 @@ NEXT STEP   ▸ Build something useful
 
 ---
 
+## `> projects`
+
+| Project | Purpose | Status |
+| :--- | :--- | :--- |
+| **Learning Lab** | Small exercises for Git, Python, and web development | `GROWING` |
+| **First Useful Tool** | A beginner-built project that solves a real, small problem | `PLANNING` |
+| **Open-Source Trail** | Beginner-friendly issues and documentation improvements | `EXPLORING` |
+
+Project repositories will appear here as they grow from experiments into finished builds.
+
+---
+
 ## `> help.request`
 
 I'm not too proud to ask for help—I just don't always know where to begin.
